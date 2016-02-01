@@ -1,0 +1,10 @@
+#nproject
+20
+#nsims
+1
+#qo
+0.001
+#ao
+1
+#eofc
+999
